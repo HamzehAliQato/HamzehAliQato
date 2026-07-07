@@ -1,31 +1,45 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# 👋 Hi, I'm Pratik Kumar  
+### 💻 Full Stack Engineer | AI/ML Enthusiast | Writer  
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+SSE at **Elucidata** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
 
-```txt
-No activity tracked
+### Tech Snapshot
+
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((AI/ML))
+    ((DevOps))
+    ((Cloud))
+      AWS
 ```
 
-<!--END_SECTION:waka-->
+### Connect with Me  
+- [Portfolio](https://pratik-kumar.netlify.app)
+- [LinkedIn](https://linkedin.com/in/pratik-kumar04)
+- [GitHub](https://github.com/pr2tik1)
+- [Substack](https://pratikkumar.substack.com)
+- **pr2tik1@gmail.com**
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
+Thanks for visiting! ✨ Let's build something awesome together.
