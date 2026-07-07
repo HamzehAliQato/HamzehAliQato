@@ -1,120 +1,31 @@
-````markdown
-<div align="center">
+<div align="center" width="50">
 
-# Hi 👋, I'm Hamzeh Ali Qato
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-### 🎓 Data Science & Artificial Intelligence Student
-
-💻 Passionate about Programming, Artificial Intelligence, and Problem Solving.
-
-🌱 Currently learning **C++** and building projects to improve my programming skills.
-
-🚀 My goal is to become a skilled AI & Data Science Engineer.
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
+![Totals Hits](https://komarev.com/ghpvc/?username=HamzehAliQato&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHamzehAliQato&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </div>
 
----
+<hr></hr>
 
-## 👨‍💻 About Me
-
-- 🎓 Data Science & Artificial Intelligence Student.
-- 💻 Currently learning **C++**.
-- 📚 Building projects to strengthen my programming skills.
-- 🤖 Interested in Artificial Intelligence & Machine Learning.
-- 🌱 Always learning new technologies.
-- ⚡ Love solving programming problems.
-
----
-
-## 🛠 Languages & Tools
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💻 My Skills
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ```cpp
-class HamzehAliQato {
+// tools_I_use organized 
+
+class About : public HamzehAliQato { 
 public:
-
-    string major = "Data Science & Artificial Intelligence";
-
-    vector<string> currentlyLearning = {
-        "C++",
-        "Object-Oriented Programming",
-        "Data Structures"
-    };
-
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Problem Solving"
-    };
-
-    vector<string> tools = {
-        "Git",
-        "GitHub",
-        "VS Code"
+    const std::map<std::string, std::set<std::string>> myTools = {  
+        { "CoreLanguages",       { "C++", "Python" } },
+        { "Specialization",     { "Data Science", "Artificial Intelligence" } },
+        { "Editors",            { "VS Code" } },
+        { "VersionControl",     { "Git", "GitHub" } }
     };
 };
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzehAliQato&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzehAliQato&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HamzehAliQato&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamzehAliQato&theme=tokyo-night"/>
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/HamzehAliQato)
-
-<!-- Add LinkedIn when available -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK) -->
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-"Keep learning. Keep building. Keep growing."
-
-</div>
-````
